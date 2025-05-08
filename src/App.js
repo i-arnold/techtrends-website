@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import './App.css';
+import 'leaflet/dist/leaflet.css';
 
 function App() {
   return (
